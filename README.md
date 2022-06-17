@@ -7,6 +7,8 @@ You can learn more about me. My portfolio:
 1) https://www.codewars.com/users/Zeronez345
 2) https://stepik.org/users/494115295
 3) https://www.freecodecamp.org/Kabanova_Veronika
+4) writing a scientific article: https://drive.google.com/file/d/1uSn57Hmx6kVl5JzP7nh3jhpyuEQy9kyL/view?usp=sharing
+
 
 
 <!---
